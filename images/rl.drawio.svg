@@ -1,0 +1,138 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="561px" height="324px" viewBox="-0.5 -0.5 561 324" content="&lt;mxfile&gt;&lt;diagram id=&quot;OuTRlUax2m0W0YK_dwo8&quot; name=&quot;Page-1&quot;&gt;3VdNb9swDP01AtJDC3/HOTqO2x02YFgO206FYiu2UNkKFOVrv35ULMVR7BTt2g3bLoH4RJES+fiSID+t9w8Cr6pPvCAMeU6xR/4MeV4cxPCpgEMLjKNxC5SCFi3kdsCc/iAadDS6oQVZW46ScybpygZz3jQklxaGheA7223JmZ11hUvSA+Y5Zn30Ky1kpZ8VOh3+gdCyMpldR+/U2DjrEOsKF3zXQkcfP0N+KjiX7arep4Sp2pm6tIHur+yeLiZII19yINLXkAfzNlLAU7XJhax4yRvMsg6dVrJmsOnCErKIwzcwnLvQmN+VaYzZ3rIO2lryRuq2esrON2JLChN0T+VZTLBOIWHdRVSGCdh/tykw34hcP83XVMGiJNoraCH16LNjulYPhNcErg0OgjAs6dbuP9Y0Kk9++mgiBD6cOaw4beT6LPJnBYCDHgg31vzQ8+Bedu3CPwye9YdFewNjnT2lg45MGGaFHs8tZhv9YpSFKE5QEqMsQNMZmqSjJJeUNzdI5Y4Y1HO6ELAq5bEdUNgAP8JWqurw6LYLFKZ5wVUpWrhpHQdJ+BEvQDUsumFGywbWOXSZCAC2REgKc5nojZoWxZGjgqzpD7w4xlP80B2A4OEUhbMBCjKVborzp1LwTVOknHHIMGt4Qwb5pSdH3YDs0YDq6OzWYFuc0qdunTtnEnnt2dfxrEcMP7R4cWt4YiLw5XIN1Le58lp2+APsiNBkgqYJymIU+4ogmib+KCmhZDe9Dh+LfBr5XUUlma/wcVJ38J1h931JGTMNQZ5fYBIvc8DXUvAncrYT5TFZLAe6e1Ufev272qeLGfWMpu+6b4ATVp2pf+xc76LVhWdKPv4FmbY09QWa7b5Ss4dl2n27TAd9mfb/Cpm+lF0/el6mL2X9wv/NMj0ZGMSxkulppCYSssdQAmc0l1iSmwGVVqJ+j2KY1glK4ECsvL+QHRZFf2L/AU0ev6cmB0aTjZj67yLRt5dRx79BooNhZmQouVdNTzxQ6VHWbKmAUtb/iUAHwZ9TaDC7H+ltg7p/On72Ew==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 100 163 Q 100 83 280 83 Q 460 83 460 156.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 460 161.88 L 456.5 154.88 L 460 156.63 L 463.5 154.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 44px; margin-left: 291px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                动作(Action)
+                                <br/>
+                                <mjx-container class="MathJax" jax="SVG" display="true">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="12.76ex" height="1.437ex" role="img" focusable="false" viewBox="0 -441 5640 635" xmlns:xlink="http://www.w3.org/1999/xlink" style="vertical-align: -0.439ex;">
+                                        <defs>
+                                            <path id="MJX-3-TEX-I-1D44E" d="M33 157Q33 258 109 349T280 441Q331 441 370 392Q386 422 416 422Q429 422 439 414T449 394Q449 381 412 234T374 68Q374 43 381 35T402 26Q411 27 422 35Q443 55 463 131Q469 151 473 152Q475 153 483 153H487Q506 153 506 144Q506 138 501 117T481 63T449 13Q436 0 417 -8Q409 -10 393 -10Q359 -10 336 5T306 36L300 51Q299 52 296 50Q294 48 292 46Q233 -10 172 -10Q117 -10 75 30T33 157ZM351 328Q351 334 346 350T323 385T277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q217 26 254 59T298 110Q300 114 325 217T351 328Z"/>
+                                            <path id="MJX-3-TEX-N-30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"/>
+                                            <path id="MJX-3-TEX-N-2C" d="M78 35T78 60T94 103T137 121Q165 121 187 96T210 8Q210 -27 201 -60T180 -117T154 -158T130 -185T117 -194Q113 -194 104 -185T95 -172Q95 -168 106 -156T131 -126T157 -76T173 -3V9L172 8Q170 7 167 6T161 3T152 1T140 0Q113 0 96 17Z"/>
+                                            <path id="MJX-3-TEX-N-31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"/>
+                                            <path id="MJX-3-TEX-N-22EF" d="M78 250Q78 274 95 292T138 310Q162 310 180 294T199 251Q199 226 182 208T139 190T96 207T78 250ZM525 250Q525 274 542 292T585 310Q609 310 627 294T646 251Q646 226 629 208T586 190T543 207T525 250ZM972 250Q972 274 989 292T1032 310Q1056 310 1074 294T1093 251Q1093 226 1076 208T1033 190T990 207T972 250Z"/>
+                                            <path id="MJX-3-TEX-I-1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"/>
+                                        </defs>
+                                        <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+                                            <g data-mml-node="math">
+                                                <g data-mml-node="msub">
+                                                    <g data-mml-node="mi">
+                                                        <use data-c="1D44E" xlink:href="#MJX-3-TEX-I-1D44E"/>
+                                                    </g>
+                                                    <g data-mml-node="mn" transform="translate(562,-150) scale(0.707)">
+                                                        <use data-c="30" xlink:href="#MJX-3-TEX-N-30"/>
+                                                    </g>
+                                                </g>
+                                                <g data-mml-node="mo" transform="translate(965.6,0)">
+                                                    <use data-c="2C" xlink:href="#MJX-3-TEX-N-2C"/>
+                                                </g>
+                                                <g data-mml-node="msub" transform="translate(1410.2,0)">
+                                                    <g data-mml-node="mi">
+                                                        <use data-c="1D44E" xlink:href="#MJX-3-TEX-I-1D44E"/>
+                                                    </g>
+                                                    <g data-mml-node="mn" transform="translate(562,-150) scale(0.707)">
+                                                        <use data-c="31" xlink:href="#MJX-3-TEX-N-31"/>
+                                                    </g>
+                                                </g>
+                                                <g data-mml-node="mo" transform="translate(2375.8,0)">
+                                                    <use data-c="2C" xlink:href="#MJX-3-TEX-N-2C"/>
+                                                </g>
+                                                <g data-mml-node="mo" transform="translate(2820.4,0)">
+                                                    <use data-c="22EF" xlink:href="#MJX-3-TEX-N-22EF"/>
+                                                </g>
+                                                <g data-mml-node="mo" transform="translate(4159.1,0)">
+                                                    <use data-c="2C" xlink:href="#MJX-3-TEX-N-2C"/>
+                                                </g>
+                                                <g data-mml-node="msub" transform="translate(4603.8,0)">
+                                                    <g data-mml-node="mi">
+                                                        <use data-c="1D44E" xlink:href="#MJX-3-TEX-I-1D44E"/>
+                                                    </g>
+                                                    <g data-mml-node="mi" transform="translate(562,-150) scale(0.707)">
+                                                        <use data-c="1D45B" xlink:href="#MJX-3-TEX-I-1D45B"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </svg>
+                                </mjx-container>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="291" y="50" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="20px" text-anchor="middle">
+                    动作(Action)...
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="163" width="200" height="80" rx="12" ry="12" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 203px; margin-left: 1px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                智能体(Agent)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="100" y="209" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="20px" text-anchor="middle">
+                    智能体(Agent)
+                </text>
+            </switch>
+        </g>
+        <path d="M 460 243 Q 460 323 280 323 Q 100 323 100 249.37" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 100 244.12 L 103.5 251.12 L 100 249.37 L 96.5 251.12 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 284px; margin-left: 291px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                状态 (State)
+                                <br/>
+                                反馈 (Reward)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="291" y="290" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="20px" text-anchor="middle">
+                    状态 (State)...
+                </text>
+            </switch>
+        </g>
+        <rect x="360" y="163" width="200" height="80" rx="12" ry="12" fill="#dae8fc" stroke="#6c8ebf" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 203px; margin-left: 361px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                环境(Environement)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="460" y="209" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="20px" text-anchor="middle">
+                    环境(Environement)
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
